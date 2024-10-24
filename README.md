@@ -36,10 +36,10 @@
 
 1. If you don't have an account in PANEL, create one and Deploy
     <br>
-    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=discord&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting&logoColor=white'/></a>
 
 ## WATCH PANEL TUTORIAL VIDEO.
-* [![YOUTUBE](https://img.shields.io/badge/VIDEO UNAVAILABLE-red?style=for-the-badge&logo=youtube&logoColor=white)](LOADING....)
+* [![YOUTUBE](https://img.shields.io/badge/VIDEO-UNAVAILABLE-red?style=for-the-badge&logo=youtube&logoColor=white)](LOADING....)
 
 
 ### DO YOU WANT A FAST PANEL AND WORRY LESS ABOUT DAILY COINS?
