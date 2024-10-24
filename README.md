@@ -2,7 +2,7 @@
    <a><img src='https://i.ibb.co/BnYRXcw/STINGER-V4.jpg'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ STINGER-V4★⃝•;MULTI-BUG+DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PASCHAL+JE;RELEASED+DATE+06%2F10%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ STINGER-V4★⃝•;MULTI-BUG+DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PASCHAL+JE;RELEASED+DATE+24%2F10%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <p align="center"><img src="https://profile-counter.glitch.me/{paskito002}/count.svg" alt="paskito002 :: Visitor's Count" /></p>
