@@ -68,8 +68,8 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349037524605"><img src="https://img.shields.io/badge/Contact ES TEAMS-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
-<a href="https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
+<a href="https://wa.me/2349037524605"><img src="https://img.shields.io/badge/Contact ES TEAMS-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+<a href="https://www.whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
 <a href="https://t.me/examsolutionteam"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=black" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
