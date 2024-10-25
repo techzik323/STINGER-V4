@@ -11,8 +11,8 @@
 <a href="https://github.com/paskito002/STINGER-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/paskito002/STINGER-V4?color=blue&style=flat-square"></a>
 <a href="https://github.com/paskito002/STINGER-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/paskito002/STINGER-V4?color=red&style=flat-square"></a>
 <a href="https://github.com/paskito002/STINGER-V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/paskito002/STINGER-V4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/paskito002/STINGER-V3/"><img title="Size" src="https://img.shields.io/github/repo-size/paskito002/STINGER-V4?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaskito002%2FSTINGER-V3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/paskito002/STINGER-V4/"><img title="Size" src="https://img.shields.io/github/repo-size/paskito002/STINGER-V4?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaskito002%2FSTINGER-V4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/paskito002/STINGER-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
