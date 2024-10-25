@@ -27,14 +27,16 @@
 
 ###  PURCHASE THE ANTIBUG VERSION FROM ES TEAMS TECH
 
-<a href="https://t.me/examsolutionteam "><img src="https://img.shields.io/badge/telegram-blue" alt="Click Here to Purchase Stinger-V3" width="110"></a> 
+If you want to get the higher version of Stunger V4 + AntiBug Version, Contact ES TEAMS TECH
+    <br>
+    <a href='https://t.me/examsolutionteam' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-BUY-FILE-black?style=for-the-badge&logo=telegram&logoColor=white'/></a>
 
 
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
 ### 2. DEPLOY ON PANEL
 
-1. If you don't have an account in PANEL, create one and Deploy
+ If you don't have an account in PANEL, create one and Deploy
     <br>
     <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=discord&logoColor=white'/></a>
 
