@@ -29,7 +29,7 @@
 
 If you want to get the higher version of Stunger V4 + AntiBug Version, Contact ES TEAMS TECH
     <br>
-    <a href='https://t.me/examsolutionteam' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-BUY-FILE-black?style=for-the-badge&logo=telegram&logoColor=white'/></a>
+    <a href='https://t.me/examsolutionteam' target="_blank"><img alt='PURCHASE' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=telegram&logoColor=white'/></a>
 
 
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
