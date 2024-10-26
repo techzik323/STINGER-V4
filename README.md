@@ -35,6 +35,8 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
 
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
+## **NOTE: TO ACTIVATE BOT MENU TYPE[ .stinger]
+
 ### 2. DEPLOY ON PANEL
 
  If you don't have an account in PANEL, create one and Deploy
