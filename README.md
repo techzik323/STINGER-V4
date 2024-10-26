@@ -65,7 +65,7 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
 
 `Contact ES TEAMS TECH to Purchase a Private Fast Panel Now!!!`
 
-## STINGER-V3 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
+## STINGER-V4 SCRIPT IS NOT OPENLY ALLOWED TO BE USED FOR FREE. SC IS FOR SALE.... BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
