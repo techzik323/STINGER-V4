@@ -33,7 +33,7 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
     <a href='https://t.me/examsolutionteam' target="_blank"><img alt='PURCHASE' src='https://img.shields.io/badge/-PURCHASE_FILE-blue?style=for-the-badge&logo=telegram&logoColor=white'/></a>
 
 
-## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
+## **NOTE: USE PRIVATE PANEL OR CONSOLE DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
 # **NOTE: TO ACTIVATE BOT MENU TYPE [.stinger]**
 
