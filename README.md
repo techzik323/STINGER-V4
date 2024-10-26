@@ -45,8 +45,8 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
     <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=discord&logoColor=white'/></a>
 
 ## WATCH PANEL TUTORIAL VIDEO.
-* [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=black)](https://youtu.be/34WCTn5hA5E)
-*
+ [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=black)](https://youtu.be/34WCTn5hA5E)
+
 
 ### DO YOU WANT A FAST PANEL AND WORRY LESS ABOUT DAILY COINS?
 
