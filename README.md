@@ -27,7 +27,7 @@
 
 ###  PURCHASE THE ANTIBUG VERSION FROM ES TEAMS TECH
 
-If you want to get the higher version of Stunger V4 + AntiBug Version, Contact ES TEAMS TECH
+If you want to get the higher version of Stinger V4 + AntiBug Version, Contact ES TEAMS TECH
     <br>
     <br>
     <a href='https://t.me/examsolutionteam' target="_blank"><img alt='PURCHASE' src='https://img.shields.io/badge/-PURCHASE_FILE-blue?style=for-the-badge&logo=telegram&logoColor=white'/></a>
